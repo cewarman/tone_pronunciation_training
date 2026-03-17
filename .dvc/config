@@ -1,0 +1,4 @@
+[core]
+    remote = nas
+['remote "nas"']
+    url = /mnt/nas/
