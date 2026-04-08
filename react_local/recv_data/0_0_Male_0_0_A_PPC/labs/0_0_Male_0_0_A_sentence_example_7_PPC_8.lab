@@ -1,0 +1,49 @@
+0.0 0.21 SIL <SILENCE>
+0.21 0.33 ini_t_B ta
+0.33 0.48 n_a1_E
+0.48 0.56 ini_m_B mai
+0.56 0.69 n_a3_I
+0.69 0.76 c_yi_E
+0.76 0.79 SIL <SILENCE>
+0.79 0.87 ini_d_B de
+0.87 1.2 n_e5_E
+1.2 1.23 SIL <SILENCE>
+1.23 1.33 ini_j_B ji
+1.33 1.46 n_yi1_E
+1.46 1.51 ini_t_B tui
+1.51 1.58 m_wu_I
+1.58 1.67 n_eh3_I
+1.67 1.72 c_yi_E
+1.72 1.82 ini_t_B tang
+1.82 2.0 n_a1_I
+2.0 2.19 c_ng_E
+2.19 2.46 SIL <SILENCE>
+2.46 2.52 ini_b_B bu
+2.52 2.61 n_wu4_E
+2.61 2.72 ini_x_B xiao
+2.72 2.75 m_yi_I
+2.75 2.86 n_a5_I
+2.86 2.92 c_wu_E
+2.92 3.04 ini_x_B xin
+3.04 3.09 m_yi_I
+3.09 3.24 n_e1_I
+3.24 3.41 c_n_E
+3.41 3.44 SIL <SILENCE>
+3.44 3.49 ini_d_B da
+3.49 3.67 n_a3_E
+3.67 3.76 ini_f_B fan
+3.76 3.83 n_a2_I
+3.83 3.94 c_n_E
+3.94 4.02 ini_z_B zai
+4.02 4.18 n_a4_I
+4.18 4.3 c_yi_E
+4.3 4.33 SIL <SILENCE>
+4.33 4.57 n_yi1_S yi
+4.57 4.69 ini_f_B fu
+4.69 4.81 n_wu1_E
+4.81 4.96 ini_sh_B shang
+4.96 5.07 n_a4_I
+5.07 5.15 c_ng_E
+5.15 5.22 ini_l_B le
+5.22 5.4 n_e5_E
+5.4 6.44 SIL <SILENCE>

@@ -1,0 +1,15 @@
+[part="region-content"] {
+  position: relative;
+  right: 40px;
+  padding: 0.1em;
+  /* 往左移出 region 外 */
+  top: 50%;
+  /* 垂直置中 */
+  transform: translateY(-50%);
+  /* 調整垂直置中 */
+  background: rgba(255, 255, 255, 0.8);
+  /* 可選：讓文字背景不被波型干擾 */
+  border-radius: 4px;
+  padding: 2px 4px;
+  white-space: nowrap;
+}

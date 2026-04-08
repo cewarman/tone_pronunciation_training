@@ -1,0 +1,11 @@
+0.0 0.28 SIL <SILENCE>
+0.28 0.39 ini_m_B men
+0.39 0.5 n_e2_I
+0.5 0.63 c_n_E
+0.63 0.76 ini_k_B kou
+0.76 0.97 n_o3_I
+0.97 1.01 c_wu_E
+1.01 1.15 ini_p_B pang
+1.15 1.38 n_a2_I
+1.38 1.55 c_ng_E
+1.55 2.37 SIL <SILENCE>

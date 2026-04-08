@@ -1,0 +1,13 @@
+40|1|fan-10,5,ta-0,5,zai-11,5,mai-1,5,yi-12,5,de-2,5,fu-13,5,ji-3,5,shang-14,1,tui-4,5,le-15,1,tang-5,5,bu-6,5,xiao-7,5,xin-8,5,da-9,5|totally
+40|2|fan-10,5,ta-0,5,zai-11,5,mai-1,5,yi-12,5,de-2,5,fu-13,5,ji-3,5,shang-14,1,tui-4,5,le-15,1,tang-5,5,bu-6,5,xiao-7,5,xin-8,5,da-9,5|totally
+40|3|fan-10,5,ta-0,5,zai-11,5,mai-1,5,yi-12,5,de-2,5,fu-13,5,ji-3,5,shang-14,1,tui-4,5,le-15,1,tang-5,5,bu-6,5,xiao-7,5,xin-8,5,da-9,5|totally
+40|4|fan-10,5,ta-0,5,zai-11,5,mai-1,5,yi-12,5,de-2,5,fu-13,5,ji-3,5,shang-14,1,tui-4,5,le-15,1,tang-5,5,bu-6,5,xiao-7,5,xin-8,5,da-9,5|totally
+40|5|fan-10,5,ta-0,5,zai-11,5,mai-1,5,yi-12,5,de-2,5,fu-13,5,ji-3,5,shang-14,1,tui-4,5,le-15,1,tang-5,5,bu-6,5,xiao-7,5,xin-8,5,da-9,5|totally
+40|6|fan-10,5,ta-0,5,zai-11,5,mai-1,5,yi-12,5,de-2,5,fu-13,5,ji-3,5,shang-14,1,tui-4,5,le-15,1,tang-5,5,bu-6,5,xiao-7,5,xin-8,5,da-9,5|totally
+40|7|fan-10,5,ta-0,5,zai-11,5,mai-1,5,yi-12,5,de-2,5,fu-13,5,ji-3,5,shang-14,1,tui-4,5,le-15,1,tang-5,5,bu-6,5,xiao-7,5,xin-8,5,da-9,5|totally
+40|8|fan-10,5,ta-0,5,zai-11,5,mai-1,5,yi-12,5,de-2,5,fu-13,5,ji-3,5,shang-14,1,tui-4,5,le-15,1,tang-5,5,bu-6,5,xiao-7,5,xin-8,5,da-9,5|totally
+40|9|fan-10,5,ta-0,5,zai-11,5,mai-1,5,yi-12,5,de-2,5,fu-13,5,ji-3,5,shang-14,1,tui-4,5,le-15,1,tang-5,5,bu-6,5,xiao-7,5,xin-8,5,da-9,5|totally
+40|10|fan-10,5,ta-0,5,zai-11,5,mai-1,5,yi-12,5,de-2,5,fu-13,5,ji-3,5,shang-14,1,tui-4,5,le-15,1,tang-5,5,bu-6,5,xiao-7,5,xin-8,5,da-9,5|totally
+40|11|fan-10,5,ta-0,5,zai-11,5,mai-1,5,yi-12,5,de-2,5,fu-13,5,ji-3,5,shang-14,1,tui-4,5,le-15,1,tang-5,5,bu-6,5,xiao-7,5,xin-8,5,da-9,5|totally
+40|12|fan-10,5,ta-0,5,zai-11,5,mai-1,5,yi-12,5,de-2,5,fu-13,5,ji-3,5,shang-14,1,tui-4,5,le-15,1,tang-5,5,bu-6,5,xiao-7,5,xin-8,5,da-9,5|totally
+40|13|fan-10,5,ta-0,5,zai-11,5,mai-1,5,yi-12,5,de-2,5,fu-13,5,ji-3,5,shang-14,1,tui-4,5,le-15,1,tang-5,5,bu-6,5,xiao-7,5,xin-8,5,da-9,5|totally

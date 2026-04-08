@@ -1,0 +1,16 @@
+0.0 0.44 SIL <SILENCE>
+0.44 0.5 ini_d_B da
+0.5 0.71 n_a5_E
+0.71 0.85 ini_f_B fan
+0.85 0.96 n_a1_I
+0.96 1.09 c_n_E
+1.09 1.17 ini_z_B zai
+1.17 1.4 n_a4_I
+1.4 1.49 c_yi_E
+1.49 1.82 n_yi1_S yi
+1.82 1.95 ini_f_B fu
+1.95 2.16 n_wu1_E
+2.16 2.27 ini_sh_B shang
+2.27 2.43 n_a4_I
+2.43 2.59 c_ng_E
+2.59 3.32 SIL <SILENCE>

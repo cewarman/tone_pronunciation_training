@@ -1,0 +1,5 @@
+0.0 0.93 SIL <SILENCE>
+0.93 0.99 ini_f_B fan
+0.99 1.09 n_a2_I
+1.09 1.65 c_n_E
+1.65 2.2 SIL <SILENCE>

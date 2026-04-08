@@ -1,0 +1,41 @@
+0.0 0.69 SIL <SILENCE>
+0.69 0.95 n_wu2_S wu
+0.95 1.02 ini_d_B du
+1.02 1.21 n_wu2_E
+1.21 1.29 m_yi_B you
+1.29 1.36 n_o2_I
+1.36 1.48 c_wu_E
+1.48 1.59 n_o3_B ou
+1.59 2.01 c_wu_E
+2.01 2.32 SIL <SILENCE>
+2.32 2.42 m_yi_B you
+2.42 2.56 n_o4_I
+2.56 2.61 c_wu_E
+2.61 2.75 ini_ch_B chu
+2.75 2.88 n_wu1_E
+2.88 2.95 ini_x_B xian
+2.95 2.99 m_yi_I
+2.99 3.04 n_a4_I
+3.04 3.15 c_n_E
+3.15 3.21 ini_l_B le
+3.21 3.32 n_e5_E
+3.32 3.51 n_yi2_S yi
+3.51 3.62 ini_g_B ge
+3.62 3.85 n_e5_E
+3.85 4.04 SIL <SILENCE>
+4.04 4.14 m_yi_B you
+4.14 4.25 n_o1_I
+4.25 4.33 c_wu_E
+4.33 4.41 ini_x_B xiu
+4.41 4.47 m_yi_I
+4.47 4.57 n_o3_I
+4.57 4.62 c_wu_E
+4.62 4.68 ini_d_B de
+4.68 4.79 n_e5_E
+4.79 4.88 ini_r_B ren
+4.88 4.93 n_e2_I
+4.93 5.01 c_n_E
+5.01 5.15 ini_c_B cai
+5.15 5.33 n_a2_I
+5.33 5.47 c_yi_E
+5.47 6.42 SIL <SILENCE>
