@@ -1,71 +1,77 @@
-# Getting Started with Create React App
+# Chinese Tone Training Web Service
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A web-based pronunciation training platform for Mandarin Chinese tones. The system helps learners improve their tone production by allowing them to compare their own pitch contour with a reference example.
 
-## Available Scripts
+Users can listen to native-speaker recordings, observe the corresponding pitch contour, and then record their own pronunciation. The platform visualizes both contours side by side so that learners can imitate, adjust, and gradually improve their tone accuracy.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Play reference audio for Chinese syllables, words, or sentences
+- Display the pitch contour of the reference pronunciation
+- Record the learner's own pronunciation directly in the browser
+- Extract and visualize the learner's pitch contour
+- Compare the learner's contour with the reference contour
+- Support repeated practice and immediate visual feedback
+- Web-based interface with no additional software required
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## Motivation
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Mandarin Chinese is a tonal language, and incorrect tone production can change the meaning of a word completely. Many learners have difficulty hearing and reproducing the differences between tones.
 
-### `npm run build`
+This project aims to make tone learning more intuitive by transforming speech into visual pitch contours. By seeing how their pronunciation differs from the target contour, learners can more easily identify problems and make corrections.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## How It Works
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. The user selects a training item.
+2. The system plays a reference pronunciation.
+3. The reference pitch contour is displayed.
+4. The user records their own pronunciation.
+5. The system extracts the user's pitch contour.
+6. Both contours are shown together for comparison.
+7. The user repeats the process until the pronunciation matches the target more closely.
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Example Use Cases
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Practicing the four Mandarin tones
+- Distinguishing commonly confused tone pairs
+- Improving pronunciation in words and sentences
+- Self-study for second-language learners
+- Classroom support for Chinese language instruction
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Technologies
 
-## Learn More
+Possible technologies used in this project include:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Frontend: React / JavaScript / HTML / CSS
+- Audio processing: Web Audio API, WaveSurfer.js
+- Pitch extraction: Python, Librosa, Praat, or other signal processing tools
+- Backend: Python, FastAPI, Flask, or similar frameworks
+- Database: PostgreSQL or other storage systems
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+## Future Improvements
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- Automatic tone classification
+- Pronunciation scoring
+- Personalized learning recommendations
+- Support for more Chinese dialects and languages
+- Mobile-friendly interface
+- Real-time feedback during speaking
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## License
 
-### Making a Progressive Web App
+This project is released under the MIT License.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# cewarman.github.io
